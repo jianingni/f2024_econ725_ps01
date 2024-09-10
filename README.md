@@ -7,7 +7,6 @@ This project is a part of the [Data Science Working Group](http://datascience.co
 The goal of EduTrack is to assess the current education system to identify ways to improve the current system and also allow for more accessibility to students across the country. 
 ### Partner
 * Name of Partners: Aaliyah Patel and Nora Ni
-main
 
 ### Methods Used
 * Inferential Statistics
